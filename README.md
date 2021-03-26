@@ -1,2 +1,2 @@
-# desarrollo-web-portafolio
-Proyecto realizado 
+# portafolio
+Desarrollo de software
