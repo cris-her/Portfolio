@@ -1,2 +1,2 @@
 # portafolio
-Desarrollador
+Desarrollador Full Stack
