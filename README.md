@@ -42,9 +42,9 @@ https://github.com/cris-her/Curso-de-Flutter-Avanzado-en-Platzi
 
 React Native  
 https://github.com/cris-her/2020CS50M  
-https://github.com/platzi/platzi-react-native  
 https://github.com/cris-her/curso-react-native-intro  
 https://github.com/cris-her/curso-react-native-practico  
+https://github.com/cris-her/platzi-react-native  
 
 C\#  
 https://github.com/cris-her/fundamentos-csharp  
