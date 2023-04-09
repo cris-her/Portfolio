@@ -32,6 +32,10 @@ https://github.com/cris-her/react-practico
 https://github.com/cris-her/curso-webpack-react  
 https://github.com/cris-her/curso-webpack  
 https://github.com/cris-her/curso-backend-for-frontend  
+https://github.com/cris-her/udemy_react-calc-app  
+https://github.com/cris-her/weather-app-2020  
+https://github.com/cris-her/weather_data_redux_connect  
+https://github.com/cris-her/weather_app_example  
 
 Next  
 https://github.com/cris-her/nextjs-practico  
